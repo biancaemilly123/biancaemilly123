@@ -1,10 +1,5 @@
 - 👋 meu nome Bianca
-- 👀 15
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-biancaemilly123/biancaemilly123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 15 anos
+- 🌱 meu e-mal de contato é bianca.regassin@escola.pr.gov.br
+- 💞️ estou interessada em aprender a  programar novas linguas 
+- 📫 eu estou aprendendo a programar recentimente a linguagem de Java Scri
